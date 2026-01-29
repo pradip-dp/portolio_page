@@ -6,6 +6,10 @@ Welcome to my professional portfolio website! This is a modern, responsive portf
 
 Visit my portfolio: [https://pradip-dp.github.io/portolio_page/](https://pradip-dp.github.io/portolio_page/)
 
+---
+
+Note: I refreshed the homepage visuals (font, color palette, and hero CTAs) to a cleaner, more modern look on Jan 29, 2026. To preview locally, run the simple server instructions in "Local Development" below.
+
 ## 📋 Features
 
 - **Responsive Design** - Fully responsive layout that works on all devices
